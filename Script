@@ -1,8 +1,98 @@
-# Load Packages 
+#Load Packages 
 library(dplyr)
 library(ggplot2)
 library(ggsignif)
 library(vegan)
 
-# Set Working Directory
-setwd('/Users/Patrick/Dropbox (University of Oregon)/UO-BioBE/Projects/ThermoFisher/Manuscript/OHSU-FieldTrials')
+#Set Working Directory
+setwd('Path/to/data')
+
+#Read in the data 
+data = read.csv('FinalData.csv')
+
+#Code for Figure 1
+locations = unique(data$Location)
+percentages = data.frame()
+for (l in locations) {
+  
+  temp = data[grepl(l, data$Location), ]
+  temp.positives = temp[grepl("Positive", temp$Result), ]
+  
+  total = nrow(temp)
+  positives = nrow(temp.positives)
+  
+  percent = (positives/total)*100
+  
+  ou = data.frame("Location" = l, 
+                  "Positive %" = percent, 
+                  "N" = total)
+  
+  percentages = rbind(percentages, ou)
+}
+
+percentages$SampleType = c("AerosolSense", "Swab", "Swab", "Swab", "Swab", "Swab", "Swab", "Swab", "Swab", "Swab", "Swab", "Settling Plate", "Settling Plate", "Settling Plate", "Settling Plate", "Settling Plate", "Swab", "Swab", "Swab", "Settling Plate", "Settling Plate", "Swab", "Settling Plate", "Settling Plate")
+
+ggplot(percentages, aes(reorder(Location, Positive..), Positive.., fill = SampleType)) +
+  geom_bar(stat = "identity", colour = "black", width = 0.8) +
+  theme_classic() +
+  xlab("Sampling Location") +
+  theme(legend.position = "bottom") +
+  theme(axis.text.x = element_text(angle = 90)) +
+  ylab("Percent (%) Positive") +
+  ylim(0,56) +
+  geom_text(aes(Location, Positive.., label = paste("n=", N, sep = "")), position = position_dodge(0.9), hjust = -.2, size = 3.5, angle = 90) +
+  scale_fill_manual(values = c("pink", 'light blue', 'green'))
+  
+#Code for Figure 3
+positives = data[grepl("Positive", data$Result), ]
+rooms = c(unique(positives$SeqRoom))
+paired = data.frame()
+for (r in rooms){
+  room = positives[grepl(r, positives$SeqRoom), ]
+  
+  room.pos = room[grepl('Positive', room$Result), ]
+  
+  room.as = room.pos[grepl('AerosolSense', room.pos$Location), ]
+  
+  room.env = room.pos[grepl('SWB', room.pos$sample.type), ]
+  
+  room.env = room.env[!grepl('hall', room.env$Location), ]
+  
+  room.env = room.env[!grepl('Hall', room.env$Location), ]
+  
+  room.as = mean(as.numeric(room.as$Ct))
+  
+  room.env = mean(as.numeric(room.env$Ct))
+  
+  this.room = data.frame(Room = r, 
+                  "AerosolSense" = room.as, 
+                  "Environmental" = room.env)
+
+  paired = rbind(paired, this.room)
+  
+}
+paired = na.omit(paired)
+
+paired1 = data.frame('Ct' = paired$AerosolSense, 
+                     "Room" = paired$Room)
+
+paired1$group = 'AerosolSense'
+
+paired2 = data.frame('Ct' = paired$Environmental, "Room" = paired$Room)
+
+paired2$group = 'Flocked Swabs'
+
+paired = rbind(paired1, paired2)
+
+test = t.test(Ct ~ group, data = paired, paired = TRUE)
+p.value = format(test[["p.value"]], digits = 2)
+
+ggplot(paired, aes(group, Ct), group = Room) +
+  geom_boxplot() +
+  scale_fill_manual(values = c("pink", 'green')) +
+  xlab("Sample Type") +
+  theme_classic() +
+  geom_line(aes(group=Room), position = position_dodge(0.2)) +
+  geom_point(shape = 21, aes(group=Room, fill = group), position = position_dodge(0.2)) +
+  theme(legend.position = "none") +
+  geom_signif(comparisons = list(c('AerosolSense', 'Flocked Swabs')), annotation = paste("P = ", p.value, sep = ""), fontface = 'italic', test = 't.test', )
