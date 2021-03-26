@@ -1,6 +1,6 @@
-# Environmental Viral Surveillance Should Include Bioaerosols:  A comparison of surface and bioaerosol environmental sampling in hospital rooms with COVID-19 patients
+# Exploring Integrated Environmental Viral Surveillance of Indoor Environments: A comparison of surface and bioaerosol environmental sampling in hospital rooms with COVID-19 patients
 
-This directory contains the data and scripts supporting the claims made in "Environmental Viral Surveillance Should Include Bioaerosols:  A comparison of surface and bioaerosol environmental sampling in hospital rooms with COVID-19 patients"
+This directory contains the data and scripts supporting the claims made in "Exploring Integrated Environmental Viral Surveillance of Indoor Environments: A comparison of surface and bioaerosol environmental sampling in hospital rooms with COVID-19 patients"
 
 **Finaldata.csv** - The data used in analyses with all identifiable data removed
 
