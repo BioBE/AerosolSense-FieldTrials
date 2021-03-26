@@ -3,6 +3,7 @@
 This directory contains the data and scripts supporting the claims made in "Environmental Viral Surveillance Should Include Bioaerosols:  A comparison of surface and bioaerosol environmental sampling in hospital rooms with COVID-19 patients"
 
 **Finaldata.csv** - The data used in analyses with all identifiable data removed
+
 **Script** - The R script utilized to create figures and run statistical tests as presented in the manuscript 
 
 **Link to Preprint:** 
