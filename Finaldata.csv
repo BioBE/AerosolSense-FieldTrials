@@ -1,0 +1,489 @@
+Location,sample.date,sample.time,sample.end.time,sample.type,SeqRoom,N,ORF1ab,S,MS2,Result,Ct
+AerosolSense,11/12/20,10:35,14:15,AS,TwoPlease-1,No Amp,No Amp,No Amp,28.6,Negative,38.7
+Bathroom Exhaust,11/12/20,10:35,NA,SWB,TwoPlease-1,29.3,No Amp,26.3,25.3,Positive (2/3),31.9
+Bathroom Floor,11/12/20,10:35,NA,SWB,TwoPlease-1,31.8,No Amp,No Amp,28.1,Negative,37.3
+Charting Computer,11/12/20,10:35,NA,SWB,TwoPlease-1,32.7,No Amp,No Amp,25.4,Negative,37.6
+Floor - Foot of Bed,11/12/20,10:35,NA,SWB,TwoPlease-1,31.6,No Amp,No Amp,26.1,Negative,37.2
+Floor - Left of Bed,11/12/20,10:35,NA,SWB,TwoPlease-1,No Amp,No Amp,No Amp,26.8,Negative,40
+Mayo Stand,11/12/20,10:35,NA,SWB,TwoPlease-1,30.2,No Amp,28.4,26.1,Positive (2/3),32.9
+Return Air Grille,11/12/20,10:35,NA,SWB,TwoPlease-1,No Amp,No Amp,No Amp,24.7,Negative,39.6
+Sink,11/12/20,10:35,NA,SWB,TwoPlease-1,29.7,31,22.9,22.7,Positive (3/3),27.9
+Supply Air Grille,11/12/20,10:35,NA,SWB,TwoPlease-1,31.4,No Amp,No Amp,24.6,Negative,37.1
+AerosolSense,11/19/20,0:00,8:00,AS,ThreePlease-1,30.3,No Amp,No Amp,27.5,Negative,36.8
+Bathroom Exhaust,11/19/20,7:40,NA,SWB,ThreePlease-1,31.1,No Amp,No Amp,26,Negative,37
+Bathroom Exhaust,11/19/20,8:00,NA,SWB,ThreePlease-1,29.2,No Amp,No Amp,26.8,Negative,36.4
+Bathroom Floor,11/19/20,7:40,NA,SWB,ThreePlease-1,No Amp,No Amp,No Amp,29.2,Negative,40
+Bathroom Floor,11/19/20,8:00,NA,SWB,ThreePlease-1,No Amp,No Amp,No Amp,26.9,Negative,40
+Bedside table,11/19/20,8:00,NA,PAS,ThreePlease-1,No Amp,No Amp,No Amp,25.6,Negative,38.4
+Charting Computer,11/19/20,7:40,NA,SWB,ThreePlease-1,No Amp,No Amp,No Amp,28.2,Negative,40
+Charting Computer,11/19/20,8:00,NA,SWB,ThreePlease-1,No Amp,No Amp,No Amp,21.6,Negative,40
+Floor - Foot of Bed,11/19/20,7:40,NA,SWB,ThreePlease-1,29.3,34,34.3,No Amp,Positive (3/3),32.5
+Floor - Foot of Bed,11/19/20,8:00,NA,SWB,ThreePlease-1,No Amp,No Amp,No Amp,25.6,Negative,40
+Floor - Left of Bed,11/19/20,7:40,NA,SWB,ThreePlease-1,30.2,27.1,No Amp,24.7,Positive (2/3),32.5
+Floor - Left of Bed,11/19/20,8:00,NA,SWB,ThreePlease-1,31.2,30.2,No Amp,23.7,Positive (2/3),33.8
+Floor - Right of Bed,11/19/20,7:40,NA,SWB,ThreePlease-1,33.3,No Amp,No Amp,24.7,Negative,37.8
+Floor - Right of Bed,11/19/20,8:00,NA,SWB,ThreePlease-1,No Amp,No Amp,No Amp,25.4,Negative,40
+Mayo Stand,11/19/20,7:40,NA,SWB,ThreePlease-1,No Amp,No Amp,No Amp,24.9,Negative,40
+Mayo Stand,11/19/20,8:00,NA,SWB,ThreePlease-1,30.6,No Amp,No Amp,26.6,Negative,36.9
+Return Air Grille,11/19/20,7:40,NA,SWB,ThreePlease-1,32.1,No Amp,No Amp,27.4,Negative,37.4
+Return Air Grille,11/19/20,8:00,NA,SWB,ThreePlease-1,31.3,No Amp,No Amp,27,Negative,37.1
+Sink,11/19/20,7:40,NA,SWB,ThreePlease-1,No Amp,No Amp,No Amp,29.4,Negative,40
+Sink,11/19/20,8:00,NA,PAS,ThreePlease-1,31.9,No Amp,No Amp,24.8,Negative,37.3
+Supply Air Grille,11/19/20,7:40,NA,SWB,ThreePlease-1,No Amp,No Amp,No Amp,29.8,Negative,40
+Supply Air Grille,11/19/20,8:00,NA,SWB,ThreePlease-1,No Amp,No Amp,No Amp,26.4,Negative,40
+Under bed ,11/19/20,8:00,NA,PAS,ThreePlease-1,No Amp,No Amp,No Amp,24.5,Negative,40
+AerosolSense,12/11/20,12:50,15:35,AS,FourPlease-1,No Amp,No Amp,No Amp,31.1,Negative,40
+Bathroom Exhaust,12/11/20,15:35,NA,SWB,FourPlease-1,33.9,No Amp,No Amp,23.4,Negative,38
+Bathroom Floor,12/11/20,15:35,NA,SWB,FourPlease-1,No Amp,No Amp,No Amp,27.2,Negative,40
+Bedside table,12/11/20,12:50,15:35,PAS,FourPlease-1,No Amp,No Amp,No Amp,27.1,Negative,40
+Charting Computer,12/11/20,15:35,NA,SWB,FourPlease-1,No Amp,No Amp,No Amp,27.6,Negative,40
+Corner,12/11/20,12:50,15:35,PAS,FourPlease-1,No Amp,No Amp,No Amp,27.2,Negative,40
+Floor - Foot of Bed,12/11/20,15:35,NA,SWB,FourPlease-1,No Amp,No Amp,No Amp,28.2,Negative,40
+Floor - hall,12/11/20,15:35,NA,SWB,FourPlease-1,No Amp,No Amp,No Amp,30.9,Negative,40
+Floor - Left of Bed,12/11/20,15:35,NA,SWB,FourPlease-1,No Amp,No Amp,No Amp,27.4,Negative,40
+Floor - Right of Bed,12/11/20,15:35,NA,SWB,FourPlease-1,No Amp,No Amp,No Amp,27.3,Negative,40
+Hallway,12/11/20,12:50,15:35,PAS,FourPlease-1,No Amp,No Amp,No Amp,27.7,Negative,40
+Mayo Stand,12/11/20,15:35,NA,SWB,FourPlease-1,No Amp,No Amp,No Amp,28,Negative,40
+Return Air Grille,12/11/20,15:35,NA,SWB,FourPlease-1,29.1,No Amp,No Amp,25.2,Negative,36.4
+Sink,12/11/20,15:35,NA,SWB,FourPlease-1,32.4,No Amp,No Amp,27.8,Negative,37.5
+Sink,12/11/20,12:50,15:35,PAS,FourPlease-1,No Amp,No Amp,No Amp,25.8,Negative,40
+Supply Air Grille,12/11/20,15:35,NA,SWB,FourPlease-1,No Amp,No Amp,No Amp,27.4,Negative,40
+Under bed ,12/11/20,12:50,15:35,PAS,FourPlease-1,No Amp,No Amp,No Amp,27.1,Negative,40
+AerosolSense,12/11/20,13:29,15:54,AS,FivePlease-5,No Amp,No Amp,No Amp,30.3,Negative,40
+Bathroom Exhaust,12/11/20,15:50,NA,SWB,FivePlease-5,No Amp,No Amp,No Amp,24.7,Negative,40
+Bathroom Floor,12/11/20,15:50,NA,SWB,FivePlease-5,No Amp,No Amp,No Amp,25.7,Negative,40
+Bedside table,12/11/20,13:26,15:50,PAS,FivePlease-5,No Amp,No Amp,No Amp,26.2,Negative,40
+Charting Computer,12/11/20,15:50,NA,SWB,FivePlease-5,No Amp,No Amp,No Amp,24.8,Negative,40
+Floor - Foot of Bed,12/11/20,15:50,NA,SWB,FivePlease-5,No Amp,No Amp,No Amp,25.7,Negative,40
+Floor - hall,12/11/20,15:50,NA,SWB,FivePlease-5,No Amp,No Amp,No Amp,29.2,Negative,40
+Floor - Left of Bed,12/11/20,15:50,NA,SWB,FivePlease-5,No Amp,No Amp,No Amp,26.8,Negative,40
+Floor - Right of Bed,12/11/20,15:50,NA,SWB,FivePlease-5,No Amp,No Amp,No Amp,25.2,Negative,40
+Hallway,12/11/20,13:26,15:50,PAS,FivePlease-5,No Amp,No Amp,No Amp,31.3,Negative,40
+Mayo Stand,12/11/20,15:50,NA,SWB,FivePlease-5,No Amp,No Amp,No Amp,25.4,Negative,40
+Return Air Grille,12/11/20,15:50,NA,SWB,FivePlease-5,No Amp,No Amp,No Amp,29.4,Negative,40
+Sink,12/11/20,15:50,NA,SWB,FivePlease-5,No Amp,No Amp,No Amp,23.5,Negative,40
+Sink,12/11/20,13:26,15:50,PAS,FivePlease-5,No Amp,No Amp,No Amp,26,Negative,40
+Supply Air Grille,12/11/20,15:50,NA,SWB,FivePlease-5,No Amp,No Amp,No Amp,25.9,Negative,40
+Under bed ,12/11/20,13:26,15:50,PAS,FivePlease-5,No Amp,No Amp,No Amp,25.4,Negative,40
+AerosolSense,12/16/20,15:15,18:15,AS,SixPlease-1,26.8,20.2,26.5,23.5,Positive (3/3),24.5
+Bathroom Exhaust,12/16/20,15:15,NA,SWB,SixPlease-1,No Amp,No Amp,No Amp,28.1,Negative,40
+Bathroom Floor,12/16/20,15:15,NA,SWB,SixPlease-1,No Amp,No Amp,No Amp,27.5,Negative,40
+Charting Computer,12/16/20,15:15,NA,SWB,SixPlease-1,30.2,No Amp,No Amp,27.1,Negative,36.7
+Corner,12/16/20,15:15,18:15,PAS,SixPlease-1,32.7,No Amp,No Amp,27.7,Negative,37.6
+Floor - Foot of Bed,12/16/20,15:15,NA,SWB,SixPlease-1,No Amp,No Amp,No Amp,27.1,Negative,40
+Floor - hall,12/16/20,15:15,NA,SWB,SixPlease-1,No Amp,No Amp,No Amp,31.8,Negative,40
+Floor - Left of Bed,12/16/20,15:15,NA,SWB,SixPlease-1,No Amp,No Amp,No Amp,27.8,Negative,40
+Floor - Right of Bed,12/16/20,15:15,NA,SWB,SixPlease-1,No Amp,No Amp,No Amp,27,Negative,40
+Mayo Stand,12/16/20,15:15,NA,SWB,SixPlease-1,No Amp,No Amp,No Amp,27.4,Negative,40
+Return Air Grille,12/16/20,15:15,NA,SWB,SixPlease-1,No Amp,No Amp,No Amp,25.9,Negative,40
+Sink,12/16/20,15:15,NA,SWB,SixPlease-1,31.4,No Amp,No Amp,27.9,Negative,37.1
+Sink,12/16/20,15:15,18:15,PAS,SixPlease-1,No Amp,No Amp,No Amp,28,Negative,40
+Supply Air Grille,12/16/20,15:15,NA,SWB,SixPlease-1,33,No Amp,No Amp,25.9,Negative,37.7
+Under bed ,12/16/20,15:15,18:15,PAS,SixPlease-1,No Amp,No Amp,No Amp,26.8,Negative,40
+Window Sill,12/16/20,15:15,18:15,PAS,SixPlease-1,No Amp,No Amp,No Amp,27.3,Negative,40
+AerosolSense,12/22/20,8:55,13:35,AS,SevenPlease-7,32.3,No Amp,32,26,Positive (2/3),34.8
+AerosolSense,12/22/20,8:55,13:35,AS,SevenPlease-7,28.7,No Amp,30.9,26.3,Positive (2/3),33.2
+Bathroom Exhaust,12/22/20,8:55,NA,SWB,SevenPlease-7,No Amp,No Amp,No Amp,26.5,Negative,40
+Bathroom Floor,12/22/20,8:55,NA,SWB,SevenPlease-7,33,No Amp,No Amp,31.4,Negative,37.7
+Charting Computer,12/22/20,8:55,NA,SWB,SevenPlease-7,No Amp,No Amp,32.9,27.7,Negative,37.6
+Corner,12/22/20,8:55,13:35,PAS,SevenPlease-7,No Amp,No Amp,No Amp,25.3,Negative,40
+Corner,12/22/20,8:55,13:35,PAS,SevenPlease-7,No Amp,34.4,No Amp,26.3,Negative,38.1
+Floor - Foot of Bed,12/22/20,8:55,NA,SWB,SevenPlease-7,No Amp,No Amp,No Amp,26.2,Negative,40
+Floor - hall,12/22/20,8:55,13:35,SWB,SevenPlease-7,No Amp,No Amp,No Amp,26,Negative,40
+Floor - Left of Bed,12/22/20,8:55,NA,SWB,SevenPlease-7,No Amp,No Amp,No Amp,26.5,Negative,40
+Floor - Right of Bed,12/22/20,8:55,NA,SWB,SevenPlease-7,No Amp,No Amp,No Amp,26.3,Negative,38.4
+Hallway,12/22/20,8:55,13:35,PAS,SevenPlease-7,33.9,31.5,No Amp,25,Positive (2/3),35.1
+Mayo Stand,12/22/20,8:55,NA,SWB,SevenPlease-7,32.6,No Amp,No Amp,26.4,Negative,37.5
+Return Air Grille,12/22/20,8:55,NA,SWB,SevenPlease-7,No Amp,No Amp,No Amp,25.8,Negative,40
+Sink,12/22/20,8:55,NA,SWB,SevenPlease-7,No Amp,No Amp,No Amp,27.3,Negative,40
+Supply Air Grille,12/22/20,8:55,NA,SWB,SevenPlease-7,No Amp,No Amp,No Amp,26.1,Negative,40
+Supply Air Grille,12/22/20,8:55,,SWB,SevenPlease-7,No Amp,No Amp,No Amp,25.3,Negative,40
+Under bed ,12/22/20,8:55,13:35,PAS,SevenPlease-7,33.2,No Amp,No Amp,28,Negative,37.7
+Window Sill,12/22/20,8:55,13:35,PAS,SevenPlease-7,No Amp,No Amp,No Amp,25.7,Negative,40
+AerosolSense,12/30/20,10:15,13:25,AS,EightPlease-8,29.3,27.3,27.1,25,Positive (3/3),27.9
+Bathroom Exhaust,12/30/20,10:15,NA,SWB,EightPlease-8,32.1,No Amp,33.3,25.6,Positive (2/3),35.1
+Bathroom Floor,12/30/20,10:15,NA,SWB,EightPlease-8,31.6,No Amp,30,25.3,Positive (2/3),33.9
+Bedside table,12/30/20,10:15,13:25,PAS,EightPlease-8,26.9,27.8,21.4,27.4,Positive (3/3),25.4
+Charting Computer,12/30/20,10:15,NA,SWB,EightPlease-8,33,No Amp,No Amp,25.4,Negative,37.7
+Floor - Foot of Bed,12/30/20,10:15,NA,SWB,EightPlease-8,31.2,No Amp,24.7,25.4,Positive (2/3),32
+Floor - hall,12/30/20,10:15,NA,SWB,EightPlease-8,31.5,29.2,23.6,25.6,Positive (3/3),28.1
+Floor - Left of Bed,12/30/20,10:15,NA,SWB,EightPlease-8,30.3,31.9,30.8,24.1,Positive (3/3),31
+Floor - Right of Bed,12/30/20,10:15,NA,SWB,EightPlease-8,32.7,No Amp,No Amp,25.6,Negative,37.6
+Hallway,12/30/20,10:15,13:25,PAS,EightPlease-8,27.6,27,26.2,25,Positive (3/3),26.9
+Mayo Stand,12/30/20,10:15,NA,SWB,EightPlease-8,32.5,No Amp,No Amp,25.7,Negative,37.5
+Return Air Grille,12/30/20,10:15,NA,SWB,EightPlease-8,30.5,No Amp,31.1,25.2,Positive (2/3),33.9
+Sink,12/30/20,10:15,NA,SWB,EightPlease-8,31.8,31.7,33.1,24.8,Positive (3/3),32.2
+Sink,12/30/20,10:15,13:25,PAS,EightPlease-8,30.3,No Amp,31.5,25,Positive (2/3),33.9
+Supply Air Grille,12/30/20,10:15,NA,SWB,EightPlease-8,29.3,27.1,26.8,25.9,Positive (3/3),27.7
+Under bed ,12/30/20,10:15,13:25,PAS,EightPlease-8,30.6,23.7,23.7,22.6,Positive (3/3),26
+Window Sill,12/30/20,10:15,13:25,PAS,EightPlease-8,33,No Amp,No Amp,25.2,Negative,37.7
+AerosolSense,11/24/20,9:15,13:30,AS,TenPlease,30.5,No Amp,No Amp,24.5,Negative,36.8
+Floor - Foot of Bed,11/24/20,9:15,NA,SWB,TenPlease,No Amp,No Amp,No Amp,30.9,Negative,40
+Floor - Foot of Bed,11/24/20,9:15,13:30,PAS,TenPlease,No Amp,No Amp,No Amp,28.3,Negative,40
+Floor - Left of Bed,11/24/20,9:15,13:30,PAS,TenPlease,25.7,23.3,22,24.8,Positive (3/3),23.7
+Mayo Stand,11/24/20,9:15,NA,SWB,TenPlease,34.3,No Amp,No Amp,27.2,Negative,38.1
+AerosolSense,11/24/20,11:00,14:00,AS,ElevenPlease,31,No Amp,No Amp,25.1,Negative,37
+Floor - Foot of Bed,11/24/20,11:00,NA,SWB,ElevenPlease,No Amp,No Amp,No Amp,29.5,Negative,40
+Floor - Head of Bed,11/24/20,11:00,NA,SWB,ElevenPlease,No Amp,No Amp,No Amp,27.5,Negative,40
+Floor - Head of Bed,11/24/20,11:00,14:00,PAS,ElevenPlease,No Amp,No Amp,No Amp,26,Negative,40
+Floor - Left of Bed,11/24/20,11:00,NA,SWB,ElevenPlease,No Amp,No Amp,No Amp,30.4,Negative,40
+Floor - Right of Bed,11/24/20,11:00,14:00,PAS,ElevenPlease,No Amp,No Amp,No Amp,29,Negative,40
+Mayo Stand,11/24/20,11:00,NA,SWB,ElevenPlease,32.4,No Amp,No Amp,28.5,Negative,37.5
+AerosolSense,12/3/20,15:29,7:43,AS,ThirteenPlease,33.6,No Amp,No Amp,25.3,Negative,37.9
+Bathroom Floor,12/3/20,15:18,NA,SWB,ThirteenPlease,28.7,No Amp,No Amp,24.3,Negative,36.2
+Charting Computer,12/3/20,15:18,NA,SWB,ThirteenPlease,31.2,No Amp,No Amp,24.9,Negative,37.1
+Charting Computer,12/3/20,15:29,7:43,PAS,ThirteenPlease,No Amp,No Amp,No Amp,30.8,Negative,40
+Floor - Foot of Bed,12/3/20,15:18,NA,SWB,ThirteenPlease,32.2,No Amp,No Amp,27.6,Negative,37.4
+Floor - hall,12/3/20,15:18,NA,SWB,ThirteenPlease,No Amp,No Amp,No Amp,26.6,Negative,40
+Floor - Left of Bed,12/3/20,15:18,NA,SWB,ThirteenPlease,32.4,25.2,No Amp,25.1,Positive (2/3),32.6
+Floor - Right of Bed,12/3/20,15:18,NA,SWB,ThirteenPlease,31.9,No Amp,No Amp,25.4,Negative,37.3
+Hallway,12/3/20,15:29,7:43,PAS,ThirteenPlease,No Amp,No Amp,No Amp,30.6,Negative,40
+Mayo Stand,12/3/20,15:18,NA,SWB,ThirteenPlease,30.1,25.9,No Amp,24.7,Positive (2/3),32
+Return Air Grille,12/3/20,15:18,NA,SWB,ThirteenPlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Sink,12/3/20,15:18,NA,SWB,ThirteenPlease,No Amp,No Amp,No Amp,31.4,Negative,40
+Supply Air Grille,12/3/20,15:18,NA,SWB,ThirteenPlease,32.9,No Amp,No Amp,27.3,Negative,37.6
+Under bed ,12/3/20,15:29,7:43,PAS,ThirteenPlease,No Amp,No Amp,No Amp,28.4,Negative,40
+Window Sill,12/3/20,15:29,7:43,PAS,ThirteenPlease,31.1,No Amp,No Amp,27.1,Negative,37
+AerosolSense,12/10/20,12:50,16:40,AS,FifteenPlease,27.6,27.2,29.5,27.5,Positive (3/3),28.1
+Bathroom Exhaust,12/10/20,12:50,NA,SWB,FifteenPlease,No Amp,No Amp,No Amp,26.6,Negative,40
+Bathroom Floor,12/10/20,12:50,NA,SWB,FifteenPlease,No Amp,No Amp,No Amp,26.4,Negative,40
+Charting Computer,12/10/20,12:50,NA,SWB,FifteenPlease,No Amp,No Amp,No Amp,26.2,Negative,40
+Floor - Foot of Bed,12/10/20,12:50,NA,SWB,FifteenPlease,No Amp,No Amp,No Amp,27.5,Negative,40
+Floor - hall,12/10/20,12:50,NA,SWB,FifteenPlease,No Amp,No Amp,No Amp,24.8,Negative,40
+Floor - Left of Bed,12/10/20,12:50,NA,SWB,FifteenPlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Floor - Right of Bed,12/10/20,12:50,NA,SWB,FifteenPlease,29.9,No Amp,No Amp,30.1,Negative,36.6
+Hallway,12/10/20,12:50,16:40,PAS,FifteenPlease,No Amp,No Amp,No Amp,25.1,Negative,40
+Mayo Stand,12/10/20,12:50,NA,SWB,FifteenPlease,No Amp,No Amp,No Amp,32.9,Negative,40
+Return Air Grille,12/10/20,12:50,NA,SWB,FifteenPlease,No Amp,No Amp,No Amp,27.5,Negative,40
+Shelf,12/10/20,12:50,16:40,PAS,FifteenPlease,30.2,No Amp,No Amp,25.5,Negative,36.7
+Shelf,12/10/20,12:50,16:40,PAS,FifteenPlease,30.7,No Amp,No Amp,27.6,Negative,36.9
+Sink,12/10/20,12:50,NA,SWB,FifteenPlease,30.9,No Amp,No Amp,27.7,Negative,37
+Supply Air Grille,12/10/20,12:50,NA,SWB,FifteenPlease,No Amp,No Amp,No Amp,28.2,Negative,40
+Under bed ,12/10/20,12:50,16:40,PAS,FifteenPlease,No Amp,No Amp,No Amp,27.6,Negative,40
+Window Sill,12/10/20,12:50,16:40,PAS,FifteenPlease,No Amp,No Amp,No Amp,29.7,Negative,40
+AerosolSense,12/11/20,7:36,14:12,AS,SixteenPlease,No Amp,No Amp,No Amp,30.8,Negative,40
+Bathroom Exhaust,12/11/20,14:12,NA,SWB,SixteenPlease,No Amp,No Amp,No Amp,28,Negative,40
+Bathroom Floor,12/11/20,14:12,NA,SWB,SixteenPlease,No Amp,No Amp,No Amp,31.5,Negative,40
+Charting Computer,12/11/20,14:12,NA,SWB,SixteenPlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Corner,12/11/20,7:35,14:12,PAS,SixteenPlease,No Amp,No Amp,No Amp,31.4,Negative,40
+Floor - Foot of Bed,12/11/20,14:12,NA,SWB,SixteenPlease,No Amp,No Amp,No Amp,29.1,Negative,40
+Floor - hall,12/11/20,14:12,NA,SWB,SixteenPlease,No Amp,No Amp,No Amp,27.5,Negative,40
+Floor - Left of Bed,12/11/20,14:12,NA,SWB,SixteenPlease,No Amp,No Amp,No Amp,27.2,Negative,40
+Floor - Right of Bed,12/11/20,14:12,NA,SWB,SixteenPlease,No Amp,No Amp,No Amp,27.5,Negative,40
+Hallway,12/11/20,7:35,14:12,PAS,SixteenPlease,No Amp,No Amp,No Amp,26.2,Negative,40
+Mayo Stand,12/11/20,14:12,NA,SWB,SixteenPlease,No Amp,No Amp,No Amp,25.5,Negative,40
+Return Air Grille,12/11/20,14:12,NA,SWB,SixteenPlease,No Amp,No Amp,No Amp,27.7,Negative,40
+Shelf,12/11/20,7:35,14:12,PAS,SixteenPlease,No Amp,No Amp,No Amp,28.5,Negative,40
+Sink,12/11/20,14:12,NA,SWB,SixteenPlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Supply Air Grille,12/11/20,14:12,NA,SWB,SixteenPlease,No Amp,No Amp,No Amp,26.8,Negative,40
+Under bed ,12/11/20,7:35,14:12,PAS,SixteenPlease,No Amp,No Amp,No Amp,27.6,Negative,40
+Window Sill,12/11/20,7:35,14:12,PAS,SixteenPlease,No Amp,No Amp,No Amp,26.6,Negative,40
+AerosolSense,12/16/20,17:50,NA,AS,SeventeenPlease,20.3,26.1,17.6,24.2,Positive (3/3),21.3
+Bathroom Exhaust,12/16/20,17:50,NA,SWB,SeventeenPlease,No Amp,No Amp,No Amp,27.1,Negative,40
+Bathroom Floor,12/16/20,17:50,NA,SWB,SeventeenPlease,No Amp,No Amp,No Amp,26.1,Negative,40
+Bedside table,12/16/20,17:50,NA,PAS,SeventeenPlease,No Amp,No Amp,No Amp,25.3,Negative,40
+Charting Computer,12/16/20,17:50,NA,SWB,SeventeenPlease,30.7,No Amp,No Amp,27.7,Negative,36.9
+Floor - Foot of Bed,12/16/20,17:50,NA,SWB,SeventeenPlease,30.2,No Amp,30.8,27.5,Positive (2/3),33.7
+Floor - hall,12/16/20,17:50,NA,SWB,SeventeenPlease,28,29,31.1,28.1,Positive (3/3),29.3
+Floor - Left of Bed,12/16/20,17:50,NA,SWB,SeventeenPlease,27.5,27.4,27.4,25.5,Positive (3/3),27.4
+Floor - Right of Bed,12/16/20,17:50,NA,SWB,SeventeenPlease,25,24.2,25.8,27.4,Positive (3/3),25
+Hallway,12/16/20,17:50,NA,PAS,SeventeenPlease,No Amp,No Amp,No Amp,26.9,Negative,40
+Mayo Stand,12/16/20,17:50,NA,SWB,SeventeenPlease,No Amp,No Amp,No Amp,25.7,Negative,40
+Return Air Grille,12/16/20,17:50,NA,SWB,SeventeenPlease,31.7,No Amp,No Amp,28.4,Negative,37.2
+Sink,12/16/20,17:50,NA,SWB,SeventeenPlease,No Amp,No Amp,No Amp,27.6,Negative,40
+Supply Air Grille,12/16/20,17:50,NA,SWB,SeventeenPlease,No Amp,No Amp,No Amp,29.6,Negative,40
+Under bed ,12/16/20,17:50,NA,PAS,SeventeenPlease,29,29.7,29.6,No Amp,Positive (3/3),29.4
+Under Sink,12/16/20,17:50,NA,PAS,SeventeenPlease,No Amp,No Amp,No Amp,27.6,Negative,40
+Window Sill,12/16/20,17:50,NA,PAS,SeventeenPlease,No Amp,No Amp,No Amp,26.8,Negative,40
+AerosolSense,12/17/20,9:07,12:37,AS,EighteenPlease,27.8,No Amp,29.4,23.9,Positive (2/3),32.4
+AerosolSense,12/17/20,9:07,12:37,AS,EighteenPlease,27.1,18.5,20.1,23.7,Positive (3/3),21.9
+Bathroom Exhaust,12/17/20,9:07,NA,SWB,EighteenPlease,No Amp,No Amp,No Amp,25.6,Negative,40
+Bathroom Floor,12/17/20,9:07,NA,SWB,EighteenPlease,No Amp,No Amp,No Amp,25.7,Negative,40
+Charting Computer,12/17/20,9:07,NA,SWB,EighteenPlease,No Amp,No Amp,No Amp,25.9,Negative,40
+Corner,12/17/20,9:07,12:37,PAS,EighteenPlease,No Amp,No Amp,No Amp,24.5,Negative,40
+Corner,12/17/20,9:07,12:37,PAS,EighteenPlease,No Amp,No Amp,No Amp,24.7,Negative,40
+Floor - Foot of Bed,12/17/20,9:07,NA,SWB,EighteenPlease,No Amp,No Amp,No Amp,24,Negative,40
+Floor - hall,12/17/20,9:07,NA,SWB,EighteenPlease,30.1,30.4,No Amp,24.3,Positive (2/3),33.5
+Floor - Left of Bed,12/17/20,9:07,NA,SWB,EighteenPlease,No Amp,No Amp,No Amp,24.4,Negative,40
+Floor - Right of Bed,12/17/20,9:07,NA,SWB,EighteenPlease,No Amp,No Amp,No Amp,25.6,Negative,40
+Glove Box,12/17/20,9:07,12:37,PAS,EighteenPlease,33.2,No Amp,No Amp,25.6,Negative,37.7
+Hallway,12/17/20,9:07,12:37,PAS,EighteenPlease,No Amp,No Amp,No Amp,25.4,Negative,40
+Mayo Stand,12/17/20,9:07,NA,SWB,EighteenPlease,No Amp,No Amp,No Amp,27.7,Negative,40
+Return Air Grille,12/17/20,9:07,NA,SWB,EighteenPlease,No Amp,No Amp,No Amp,25,Negative,40
+Sink,12/17/20,9:07,NA,SWB,EighteenPlease,No Amp,No Amp,No Amp,24.6,Negative,40
+Under bed ,12/17/20,9:07,12:37,PAS,EighteenPlease,31,No Amp,No Amp,27.9,Negative,37
+AerosolSense,12/22/20,8:10,14:04,AS,NineteenPlease,33.4,No Amp,No Amp,28.4,Negative,37.8
+Bathroom Exhaust,12/22/20,8:10,14:04,SWB,NineteenPlease,No Amp,No Amp,No Amp,27.8,Negative,40
+Bathroom Floor,12/22/20,8:10,14:04,SWB,NineteenPlease,No Amp,No Amp,No Amp,26,Negative,40
+Bedside table,12/22/20,8:10,14:04,PAS,NineteenPlease,33.5,No Amp,No Amp,25.8,Negative,37.8
+Charting Computer,12/22/20,8:10,14:04,SWB,NineteenPlease,No Amp,No Amp,No Amp,25.6,Negative,40
+Floor - Foot of Bed,12/22/20,8:10,14:04,SWB,NineteenPlease,No Amp,No Amp,No Amp,27.6,Negative,40
+Floor - hall,12/22/20,8:10,14:04,SWB,NineteenPlease,33.6,No Amp,No Amp,25.8,Negative,37.9
+Floor - Left of Bed,12/22/20,8:10,14:04,SWB,NineteenPlease,34.6,No Amp,No Amp,24.9,Negative,38.2
+Floor - Right of Bed,12/22/20,8:10,14:04,SWB,NineteenPlease,No Amp,No Amp,No Amp,26.3,Negative,40
+Hallway,12/22/20,8:10,14:04,PAS,NineteenPlease,33.4,No Amp,No Amp,24.6,Negative,37.8
+Mayo Stand,12/22/20,8:10,14:04,SWB,NineteenPlease,No Amp,No Amp,No Amp,26.6,Negative,40
+Return Air Grille,12/22/20,8:10,14:04,SWB,NineteenPlease,34.8,No Amp,No Amp,25.8,Negative,38.3
+Shelf,12/22/20,8:10,14:04,PAS,NineteenPlease,No Amp,33.9,No Amp,26.3,Negative,38
+Sink,12/22/20,8:10,14:04,SWB,NineteenPlease,No Amp,No Amp,No Amp,26.8,Negative,40
+Supply Air Grille,12/22/20,8:10,14:04,SWB,NineteenPlease,33.2,No Amp,33.3,25.2,Positive (2/3),35.5
+Under bed ,12/22/20,8:10,14:04,PAS,NineteenPlease,No Amp,No Amp,No Amp,26.5,Negative,40
+Window Sill,12/22/20,8:10,14:04,PAS,NineteenPlease,No Amp,No Amp,No Amp,24.9,Negative,40
+AerosolSense,12/30/20,5:05,9:00,AS,TwentyPlease,27.3,23.5,24.4,24.8,Positive (3/3),25.1
+AerosolSense,12/30/20,5:05,9:00,AS,TwentyPlease,30.9,No Amp,30.9,26.7,Positive (2/3),33.9
+Bathroom Exhaust,12/30/20,5:05,NA,SWB,TwentyPlease,34,No Amp,No Amp,28.1,Negative,38
+Bathroom Floor,12/30/20,5:05,NA,PAS,TwentyPlease,No Amp,No Amp,No Amp,25.5,Negative,40
+Charting Computer,12/30/20,5:05,NA,SWB,TwentyPlease,No Amp,No Amp,No Amp,25.3,Negative,40
+Floor - Foot of Bed,12/30/20,5:05,NA,SWB,TwentyPlease,32,No Amp,33,25.2,Positive (2/3),35
+Floor - hall,12/30/20,5:05,NA,SWB,TwentyPlease,30.7,No Amp,30.9,25.2,Positive (2/3),33.9
+Floor - Left of Bed,12/30/20,5:05,NA,SWB,TwentyPlease,34.6,No Amp,No Amp,25,Negative,38.2
+Floor - Right of Bed,12/30/20,5:05,NA,SWB,TwentyPlease,28.7,27.6,19.2,25.2,Positive (3/3),25.2
+Glove Box,12/30/20,5:05,9:00,PAS,TwentyPlease,30.2,30.9,30.7,25.1,Positive (3/3),30.6
+Hallway,12/30/20,5:05,9:00,PAS,TwentyPlease,No Amp,33.1,No Amp,25.3,Negative,37.7
+Mayo Stand,12/30/20,5:05,NA,SWB,TwentyPlease,30.8,32.3,29,25.4,Positive (3/3),30.7
+Return Air Grille,12/30/20,5:05,NA,SWB,TwentyPlease,30.4,29,25.6,26,Positive (3/3),28.4
+Sink,12/30/20,5:05,9:00,PAS,TwentyPlease,32.6,No Amp,31.9,25.2,Positive (2/3),34.8
+Sink,12/30/20,5:05,9:00,PAS,TwentyPlease,29.5,31,27.8,25.6,Positive (3/3),29.4
+Supply Air Grille,12/30/20,5:05,NA,SWB,TwentyPlease,28.6,31.4,25.9,24.9,Positive (3/3),28.6
+Under bed ,12/30/20,5:05,9:00,PAS,TwentyPlease,31.9,No Amp,31.9,25.5,Positive (2/3),34.6
+Window Sill,12/30/20,5:05,9:00,PAS,TwentyPlease,29.2,31.6,28.9,24.5,Positive (3/3),29.9
+AerosolSense,12/30/20,6:33,9:42,AS,TwentyOnePlease,29.6,30.2,30.6,27,Positive (3/3),30.1
+AerosolSense,12/30/20,6:33,9:42,AS,TwentyOnePlease,30,32.3,31,27.3,Positive (3/3),31.1
+Bathroom Exhaust,12/30/20,6:33,NA,SWB,TwentyOnePlease,30.3,32,30.5,25.7,Positive (3/3),31
+Bathroom Floor,12/30/20,6:33,NA,SWB,TwentyOnePlease,30.6,33,32.6,26.5,Positive (3/3),32.1
+Charting Computer,12/30/20,6:33,NA,SWB,TwentyOnePlease,25.2,27.9,24.4,25.9,Positive (3/3),25.8
+Floor - Foot of Bed,12/30/20,6:33,NA,SWB,TwentyOnePlease,29.5,26.4,27.6,26.8,Positive (3/3),27.8
+Floor - hall,12/30/20,6:33,NA,SWB,TwentyOnePlease,30.9,31.2,31.5,25.7,Positive (3/3),31.2
+Floor - Left of Bed,12/30/20,6:33,NA,SWB,TwentyOnePlease,30.5,31.6,29.8,24.2,Positive (3/3),30.6
+Floor - Right of Bed,12/30/20,6:33,NA,SWB,TwentyOnePlease,30.4,31.9,29.9,25.7,Positive (3/3),30.8
+Hallway,12/30/20,6:33,9:42,PAS,TwentyOnePlease,29.6,30.4,24,24.2,Positive (3/3),28
+Mayo Stand,12/30/20,6:33,NA,SWB,TwentyOnePlease,30.8,31.8,29.6,25.3,Positive (3/3),30.7
+Return Air Grille,12/30/20,6:33,NA,SWB,TwentyOnePlease,29.6,No Amp,29.7,No Amp,Positive (2/3),33.1
+Sink,12/30/20,6:33,NA,SWB,TwentyOnePlease,No Amp,No Amp,No Amp,25.2,Negative,40
+Sink,12/30/20,6:33,9:42,PAS,TwentyOnePlease,No Amp,No Amp,No Amp,25.1,Negative,40
+Supply Air Grille,12/30/20,6:33,NA,SWB,TwentyOnePlease,29.4,30.6,28.3,24.9,Positive (3/3),29.4
+Under bed ,12/30/20,6:33,9:42,PAS,TwentyOnePlease,33.2,No Amp,33.2,25.3,Positive (2/3),35.4
+Window Sill,12/30/20,6:33,9:42,PAS,TwentyOnePlease,30,31.9,29.8,25.1,Positive (3/3),30.6
+AerosolSense,11/11/20,15:23,18:44,AS,TwentyTwoPlease,34.7,No Amp,No Amp,28.4,Negative,38.2
+Charting Computer,11/11/20,15:23,NA,SWB,TwentyTwoPlease,No Amp,No Amp,No Amp,25.1,Negative,40
+Floor - hall,11/11/20,15:23,NA,SWB,TwentyTwoPlease,No Amp,No Amp,No Amp,23.4,Negative,40
+Floor - Head of Bed,11/11/20,15:23,NA,SWB,TwentyTwoPlease,No Amp,No Amp,No Amp,24.9,Negative,40
+Floor - Right of Bed,11/11/20,15:23,NA,SWB,TwentyTwoPlease,34,No Amp,No Amp,23.9,Negative,38
+Hopper,11/11/20,15:23,NA,SWB,TwentyTwoPlease,No Amp,No Amp,No Amp,26,Negative,40
+Mayo Stand,11/11/20,15:23,NA,SWB,TwentyTwoPlease,No Amp,No Amp,No Amp,25.7,Negative,40
+Mayo Stand,11/11/20,15:23,18:44,PAS,TwentyTwoPlease,34.4,No Amp,No Amp,25.9,Negative,38.1
+Return Air Grille,11/11/20,15:23,NA,SWB,TwentyTwoPlease,33.4,No Amp,No Amp,26.6,Negative,37.8
+Sink,11/11/20,15:23,NA,SWB,TwentyTwoPlease,27.6,No Amp,No Amp,24.1,Negative,35.9
+Sink,11/11/20,15:23,18:44,PAS,TwentyTwoPlease,No Amp,No Amp,No Amp,24.8,Negative,40
+Under bed ,11/11/20,15:23,18:44,PAS,TwentyTwoPlease,29.4,No Amp,No Amp,24.8,Negative,36.5
+Window Sill,11/11/20,15:23,18:44,PAS,TwentyTwoPlease,31.3,No Amp,No Amp,25.4,Negative,37.1
+AerosolSense,11/11/20,20:51,3:21,AS,TwentyThreePlease,34.8,No Amp,No Amp,28.5,Negative,38.3
+Charting Computer,11/11/20,20:51,NA,SWB,TwentyThreePlease,No Amp,No Amp,No Amp,24.1,Negative,38.5
+Floor - Foot of Bed,11/11/20,20:51,NA,SWB,TwentyThreePlease,29.8,No Amp,No Amp,24.9,Negative,36.6
+Floor - hall,11/11/20,20:51,NA,SWB,TwentyThreePlease,29.5,No Amp,No Amp,25,Negative,36.5
+Floor - Head of Bed,11/11/20,20:51,NA,SWB,TwentyThreePlease,28.5,No Amp,No Amp,25.1,Negative,36.2
+Floor - Left of Bed,11/11/20,20:51,NA,SWB,TwentyThreePlease,No Amp,No Amp,No Amp,22.9,Negative,40
+Floor - Right of Bed,11/11/20,20:51,NA,SWB,TwentyThreePlease,34.6,No Amp,No Amp,24.9,Negative,38.2
+Hopper,11/11/20,20:51,NA,SWB,TwentyThreePlease,30.9,No Amp,No Amp,25.3,Negative,37
+Mayo Stand,11/11/20,20:51,NA,SWB,TwentyThreePlease,No Amp,No Amp,No Amp,24.4,Negative,40
+Nurse Station,11/11/20,20:51,3:21,PAS,TwentyThreePlease,31.5,No Amp,No Amp,25.8,Negative,37.2
+Phlebotomy Cart,11/11/20,20:51,3:21,PAS,TwentyThreePlease,32.2,No Amp,No Amp,25.4,Negative,37.4
+Return Air Grille,11/11/20,20:51,NA,SWB,TwentyThreePlease,31,No Amp,No Amp,22.8,Negative,37
+Sink,11/11/20,20:51,NA,SWB,TwentyThreePlease,27.2,No Amp,No Amp,23.7,Negative,35.7
+Supply Air Grille,11/11/20,20:51,NA,SWB,TwentyThreePlease,No Amp,No Amp,No Amp,24,Negative,40
+AerosolSense,11/18/20,15:00,18:06,AS,TwentyFourPlease,No Amp,No Amp,No Amp,27.1,Negative,40
+Charting Computer,11/18/20,12:00,15:00,SWB,TwentyFourPlease,29.4,No Amp,No Amp,26.9,Negative,36.5
+Floor - hall,11/18/20,12:00,15:00,SWB,TwentyFourPlease,28,No Amp,32,28.5,Positive (2/3),31.7
+Floor - Head of Bed,11/18/20,12:00,15:00,SWB,TwentyFourPlease,No Amp,No Amp,No Amp,28.3,Negative,40
+Floor - Left of Bed,11/18/20,12:00,15:00,SWB,TwentyFourPlease,No Amp,No Amp,No Amp,26.6,Negative,40
+Floor - Right of Bed,11/18/20,12:00,15:00,SWB,TwentyFourPlease,30.8,No Amp,No Amp,25.9,Negative,36.9
+Hopper,11/18/20,12:00,15:00,SWB,TwentyFourPlease,32.1,No Amp,No Amp,28.6,Negative,37.4
+Mayo Stand,11/18/20,12:00,15:00,SWB,TwentyFourPlease,28.8,No Amp,24.3,23.1,Positive (2/3),31
+Nurse Station,11/18/20,15:00,18:06,PAS,TwentyFourPlease,30.2,No Amp,No Amp,27,Negative,36.7
+Phlebotomy Cart,11/18/20,15:00,18:06,PAS,TwentyFourPlease,32.6,No Amp,No Amp,26.8,Negative,37.5
+Return Air Grille,11/18/20,12:00,15:00,SWB,TwentyFourPlease,31.6,No Amp,No Amp,26.9,Negative,37.2
+Shelf,11/18/20,15:00,18:06,PAS,TwentyFourPlease,No Amp,No Amp,No Amp,26.4,Negative,40
+Sink,11/18/20,12:00,15:00,SWB,TwentyFourPlease,27.5,23.4,24.3,25,Positive (3/3),25.1
+Sink,11/18/20,15:00,18:06,PAS,TwentyFourPlease,30.5,No Amp,No Amp,26.8,Negative,36.8
+Supply Air Grille,11/18/20,12:00,15:00,SWB,TwentyFourPlease,32.3,No Amp,No Amp,26.1,Negative,37.4
+Under bed ,11/18/20,15:00,18:06,PAS,TwentyFourPlease,31,No Amp,No Amp,26.6,Negative,37
+Window Sill,11/18/20,15:00,18:06,PAS,TwentyFourPlease,No Amp,No Amp,No Amp,25.9,Negative,40
+AerosolSense,12/10/20,11:40,14:53,AS,TwentySixPlease,28.9,No Amp,No Amp,26.6,Negative,36.3
+Charting Computer,12/10/20,14:53,NA,SWB,TwentySixPlease,No Amp,No Amp,No Amp,27,Negative,40
+Floor - Foot of Bed,12/10/20,14:53,NA,SWB,TwentySixPlease,29.8,No Amp,No Amp,25.3,Negative,36.6
+Floor - hall,12/10/20,14:53,NA,SWB,TwentySixPlease,27,No Amp,No Amp,25.5,Negative,35.7
+Floor - Head of Bed,12/10/20,14:53,NA,SWB,TwentySixPlease,30.7,No Amp,No Amp,26,Negative,36.9
+Floor - Left of Bed,12/10/20,14:53,NA,SWB,TwentySixPlease,29.8,No Amp,No Amp,26.2,Negative,36.6
+Floor - Right of Bed,12/10/20,14:53,NA,SWB,TwentySixPlease,28.9,No Amp,No Amp,24,Negative,36.3
+Hopper,12/10/20,14:53,NA,SWB,TwentySixPlease,No Amp,No Amp,No Amp,24.4,Negative,40
+Mayo Stand,12/10/20,14:53,NA,SWB,TwentySixPlease,25.8,28,26.4,25.3,Positive (3/3),26.7
+Nurse Station,12/10/20,11:40,14:53,PAS,TwentySixPlease,No Amp,No Amp,No Amp,26,Negative,40
+Return Air Grille,12/10/20,14:53,NA,SWB,TwentySixPlease,No Amp,No Amp,No Amp,26.7,Negative,40
+Shelf,12/10/20,11:40,14:53,PAS,TwentySixPlease,No Amp,No Amp,No Amp,26.5,Negative,40
+Sink,12/10/20,14:53,NA,SWB,TwentySixPlease,30.3,No Amp,No Amp,24.6,Negative,36.8
+Sink,12/10/20,11:40,14:53,PAS,TwentySixPlease,No Amp,No Amp,No Amp,26.8,Negative,40
+Supply Air Grille,12/10/20,14:53,NA,SWB,TwentySixPlease,30.1,No Amp,No Amp,28,Negative,36.7
+Under bed ,12/10/20,11:40,14:53,PAS,TwentySixPlease,No Amp,No Amp,No Amp,28.3,Negative,40
+Window Sill,12/10/20,11:40,14:53,PAS,TwentySixPlease,No Amp,No Amp,No Amp,29,Negative,40
+AerosolSense,12/10/20,23:47,4:54,AS,TwentySevenPlease,33.9,No Amp,No Amp,31.5,Negative,38
+Charting Computer,12/10/20,23:47,NA,SWB,TwentySevenPlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Floor - Foot of Bed,12/10/20,23:47,NA,SWB,TwentySevenPlease,27.4,No Amp,No Amp,25.2,Negative,35.8
+Floor - hall,12/10/20,23:47,NA,SWB,TwentySevenPlease,No Amp,No Amp,No Amp,27,Negative,40
+Floor - Head of Bed,12/10/20,23:47,NA,SWB,TwentySevenPlease,No Amp,No Amp,No Amp,26.2,Negative,40
+Floor - Left of Bed,12/10/20,23:47,NA,SWB,TwentySevenPlease,No Amp,No Amp,No Amp,25.8,Negative,40
+Floor - Right of Bed,12/10/20,23:47,NA,SWB,TwentySevenPlease,No Amp,No Amp,No Amp,25.7,Negative,40
+Hopper,12/10/20,23:47,NA,SWB,TwentySevenPlease,No Amp,No Amp,No Amp,26.3,Negative,40
+Mayo Stand,12/10/20,23:47,NA,SWB,TwentySevenPlease,No Amp,No Amp,No Amp,26.7,Negative,40
+Nurse Station,12/10/20,23:47,4:54,PAS,TwentySevenPlease,No Amp,No Amp,No Amp,32.9,Negative,40
+Return Air Grille,12/10/20,23:47,NA,SWB,TwentySevenPlease,No Amp,No Amp,No Amp,27.7,Negative,40
+Shelf,12/10/20,23:47,4:54,PAS,TwentySevenPlease,No Amp,No Amp,No Amp,26.8,Negative,40
+Shelf,12/10/20,23:47,4:54,PAS,TwentySevenPlease,No Amp,No Amp,No Amp,27,Negative,40
+Sink,12/10/20,23:47,NA,SWB,TwentySevenPlease,No Amp,No Amp,No Amp,25.4,Negative,40
+Sink,12/10/20,23:47,4:54,PAS,TwentySevenPlease,No Amp,No Amp,No Amp,31.3,Negative,40
+Supply Air Grille,12/10/20,23:47,NA,SWB,TwentySevenPlease,No Amp,No Amp,No Amp,26.6,Negative,40
+Under bed ,12/10/20,23:47,4:54,PAS,TwentySevenPlease,No Amp,No Amp,No Amp,27.8,Negative,40
+AerosolSense,12/17/20,1:32,6:08,AS,TwentyEightPlease,21,No Amp,21.2,22.9,Positive (2/3),27.4
+AerosolSense,12/17/20,1:32,6:08,AS,TwentyEightPlease,23.6,24,16.1,23.2,Positive (3/3),21.3
+Charting Computer,12/17/20,1:32,NA,SWB,TwentyEightPlease,31.9,No Amp,No Amp,27.6,Negative,37.3
+Floor - Foot of Bed,12/17/20,1:32,NA,SWB,TwentyEightPlease,No Amp,No Amp,No Amp,27.8,Negative,40
+Floor - hall,12/17/20,1:32,NA,SWB,TwentyEightPlease,No Amp,No Amp,No Amp,27.8,Negative,40
+Floor - Head of Bed,12/17/20,1:32,NA,SWB,TwentyEightPlease,No Amp,No Amp,No Amp,29,Negative,40
+Floor - Left of Bed,12/17/20,1:32,NA,SWB,TwentyEightPlease,22.4,19.7,22,23.2,Positive (3/3),21.4
+Floor - Right of Bed,12/17/20,1:32,NA,SWB,TwentyEightPlease,No Amp,No Amp,No Amp,27.8,Negative,40
+Hopper,12/17/20,1:32,NA,SWB,TwentyEightPlease,No Amp,No Amp,No Amp,29.7,Negative,40
+Mayo Stand,12/17/20,1:32,NA,SWB,TwentyEightPlease,No Amp,No Amp,No Amp,26.9,Negative,40
+Nurse Station,12/17/20,1:32,6:08,PAS,TwentyEightPlease,No Amp,No Amp,No Amp,24.2,Negative,40
+Phlebotomy Cart,12/17/20,1:32,6:08,PAS,TwentyEightPlease,No Amp,No Amp,No Amp,28.8,Negative,40
+Return Air Grille,12/17/20,1:32,NA,SWB,TwentyEightPlease,32.6,No Amp,No Amp,28,Negative,37.5
+Shelf,12/17/20,1:32,6:08,PAS,TwentyEightPlease,No Amp,No Amp,No Amp,28.2,Negative,40
+Sink,12/17/20,1:32,NA,SWB,TwentyEightPlease,26,29,26.3,26.6,Positive (3/3),27.1
+Sink,12/17/20,1:32,6:08,PAS,TwentyEightPlease,30.4,No Amp,No Amp,24.5,Negative,36.8
+Supply Air Grille,12/17/20,1:32,NA,SWB,TwentyEightPlease,25,No Amp,29.9,29.4,Positive (2/3),31.6
+Under bed ,12/17/20,1:32,6:08,PAS,TwentyEightPlease,No Amp,No Amp,No Amp,28.9,Negative,40
+AerosolSense,12/17/20,7:36,10:53,AS,TwentyNinerPlease,26.1,25.7,28.3,23.5,Positive (3/3),26.7
+AerosolSense,12/17/20,7:36,10:53,AS,TwentyNinerPlease,27.7,No Amp,21.3,24.4,Positive (2/3),29.7
+Charting Computer,12/17/20,7:36,NA,SWB,TwentyNinerPlease,31.3,No Amp,No Amp,24.3,Negative,37.1
+Floor - Foot of Bed,12/17/20,7:36,NA,SWB,TwentyNinerPlease,31.1,No Amp,No Amp,23.3,Negative,37
+Floor - hall,12/17/20,7:36,NA,SWB,TwentyNinerPlease,29.6,No Amp,No Amp,28.2,Negative,36.5
+Floor - Head of Bed,12/17/20,7:36,NA,SWB,TwentyNinerPlease,No Amp,No Amp,No Amp,22.5,Negative,40
+Floor - Left of Bed,12/17/20,7:36,NA,SWB,TwentyNinerPlease,No Amp,No Amp,No Amp,28.7,Negative,40
+Floor - Right of Bed,12/17/20,7:36,NA,SWB,TwentyNinerPlease,30.7,No Amp,No Amp,22.7,Negative,36.9
+Hopper,12/17/20,7:36,NA,SWB,TwentyNinerPlease,No Amp,No Amp,No Amp,23.7,Negative,40
+Mayo Stand,12/17/20,7:36,NA,SWB,TwentyNinerPlease,No Amp,No Amp,No Amp,23.3,Negative,40
+Nurse Station,12/17/20,7:36,10:53,PAS,TwentyNinerPlease,No Amp,No Amp,No Amp,24.2,Negative,40
+Phlebotomy Cart,12/17/20,7:36,10:53,PAS,TwentyNinerPlease,No Amp,No Amp,No Amp,26.3,Negative,40
+Return Air Grille,12/17/20,7:36,NA,SWB,TwentyNinerPlease,29.7,No Amp,No Amp,23.3,Negative,36.6
+Shelf,12/17/20,7:36,10:53,PAS,TwentyNinerPlease,No Amp,No Amp,No Amp,23.5,Negative,40
+Sink,12/17/20,7:36,NA,SWB,TwentyNinerPlease,No Amp,No Amp,No Amp,22.2,Negative,40
+Sink,12/17/20,7:36,10:53,PAS,TwentyNinerPlease,No Amp,No Amp,No Amp,22,Negative,40
+Supply Air Grille,12/17/20,7:36,NA,SWB,TwentyNinerPlease,No Amp,No Amp,No Amp,22,Negative,40
+Under bed ,12/17/20,7:36,10:53,PAS,TwentyNinerPlease,No Amp,No Amp,No Amp,25.2,Negative,40
+AerosolSense,12/23/20,2:17,5:40,AS,ThirtyPlease,30.6,No Amp,31.6,26.6,Positive (2/3),34.1
+AerosolSense,12/23/20,2:17,5:40,AS,ThirtyPlease,29.5,33,24.5,27.3,Positive (3/3),29
+Charting Computer,12/23/20,2:17,NA,SWB,ThirtyPlease,33.1,No Amp,No Amp,25.2,Negative,37.7
+Floor - Foot of Bed,12/23/20,2:17,NA,SWB,ThirtyPlease,30.3,No Amp,No Amp,24,Negative,36.8
+Floor - hall,12/23/20,2:17,NA,SWB,ThirtyPlease,No Amp,No Amp,No Amp,34.9,Negative,40
+Floor - Head of Bed,12/23/20,2:17,NA,SWB,ThirtyPlease,No Amp,No Amp,No Amp,25.4,Negative,40
+Floor - Left of Bed,12/23/20,2:17,NA,SWB,ThirtyPlease,No Amp,No Amp,No Amp,26.2,Negative,40
+Floor - Right of Bed,12/23/20,2:17,NA,SWB,ThirtyPlease,No Amp,No Amp,No Amp,25.8,Negative,40
+Hopper,12/23/20,2:17,NA,SWB,ThirtyPlease,No Amp,No Amp,No Amp,24.8,Negative,40
+Mayo Stand,12/23/20,2:17,NA,SWB,ThirtyPlease,34.8,No Amp,No Amp,25.6,Negative,38.3
+Nurse Station,12/23/20,2:17,5:40,PAS,ThirtyPlease,No Amp,No Amp,No Amp,26.1,Negative,40
+Phlebotomy Cart,12/23/20,2:17,5:40,PAS,ThirtyPlease,34.7,No Amp,No Amp,25.6,Negative,38.2
+Return Air Grille,12/23/20,2:17,NA,SWB,ThirtyPlease,No Amp,No Amp,No Amp,26.2,Negative,40
+Shelf,12/23/20,2:17,5:40,PAS,ThirtyPlease,No Amp,No Amp,No Amp,26.4,Negative,40
+Sink,12/23/20,2:17,NA,SWB,ThirtyPlease,No Amp,No Amp,No Amp,27.6,Negative,38.4
+Sink,12/23/20,2:17,5:40,PAS,ThirtyPlease,No Amp,No Amp,No Amp,26.5,Negative,40
+Supply Air Grille,12/23/20,2:17,NA,SWB,ThirtyPlease,No Amp,No Amp,No Amp,25.9,Negative,40
+Under bed ,12/23/20,2:17,5:40,PAS,ThirtyPlease,No Amp,No Amp,No Amp,26.6,Negative,40
+AerosolSense,12/2/20,6:42,12:55,AS,ThirtyFourPlease,28.9,28.9,29.1,No Amp,Positive (3/3),29
+Charting Computer,12/2/20,6:24,NA,SWB,ThirtyFourPlease,No Amp,No Amp,No Amp,29,Negative,40
+Floor - Foot of Bed,12/2/20,6:24,NA,SWB,ThirtyFourPlease,29.9,No Amp,No Amp,25.5,Negative,36.6
+Floor - hall,12/2/20,6:24,NA,SWB,ThirtyFourPlease,No Amp,No Amp,No Amp,27.3,Negative,40
+Floor - Left of Bed,12/2/20,6:24,NA,SWB,ThirtyFourPlease,No Amp,No Amp,No Amp,25.2,Negative,40
+Floor - Right of Bed,12/2/20,6:24,NA,SWB,ThirtyFourPlease,No Amp,No Amp,No Amp,27.2,Negative,40
+Hallway,12/2/20,6:24,NA,PAS,ThirtyFourPlease,No Amp,No Amp,No Amp,28.7,Negative,40
+Mayo Stand,12/2/20,6:24,NA,SWB,ThirtyFourPlease,No Amp,No Amp,No Amp,27.1,Negative,40
+Return Air Grille,12/2/20,6:24,NA,SWB,ThirtyFourPlease,No Amp,No Amp,No Amp,30.2,Negative,40
+Sink,12/2/20,6:24,NA,SWB,ThirtyFourPlease,No Amp,No Amp,No Amp,26.6,Negative,40
+Supply Air Grille,12/2/20,6:24,NA,SWB,ThirtyFourPlease,No Amp,No Amp,No Amp,26,Negative,40
+Under bed ,12/2/20,6:24,NA,PAS,ThirtyFourPlease,30.2,No Amp,No Amp,25.3,Negative,36.7
+Under Sink,12/2/20,6:24,NA,PAS,ThirtyFourPlease,No Amp,No Amp,No Amp,26.9,Negative,40
+Window Sill,12/2/20,6:24,NA,SWB,ThirtyFourPlease,No Amp,No Amp,No Amp,29.7,Negative,40
+Window Sill,12/2/20,6:24,NA,PAS,ThirtyFourPlease,No Amp,No Amp,No Amp,28.3,Negative,40
+AerosolSense,12/10/20,16:40,2:41,AS,ThirtySixPlease,29.8,No Amp,No Amp,28.3,Negative,36.6
+Charting Computer,12/10/20,16:40,NA,SWB,ThirtySixPlease,No Amp,No Amp,No Amp,27.2,Negative,40
+Floor - Foot of Bed,12/10/20,16:40,NA,SWB,ThirtySixPlease,No Amp,No Amp,No Amp,26.5,Negative,40
+Floor - hall,12/10/20,16:40,NA,SWB,ThirtySixPlease,30.5,No Amp,No Amp,27.5,Negative,36.8
+Floor - Left of Bed,12/10/20,16:40,NA,SWB,ThirtySixPlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Floor - Right of Bed,12/10/20,16:40,NA,SWB,ThirtySixPlease,29.9,No Amp,No Amp,25.1,Negative,36.6
+Glove Box,12/10/20,16:40,2:41,PAS,ThirtySixPlease,No Amp,No Amp,No Amp,31.6,Negative,40
+Hallway,12/10/20,16:40,2:41,PAS,ThirtySixPlease,No Amp,No Amp,No Amp,30.4,Negative,40
+Return Air Grille,12/10/20,16:40,NA,SWB,ThirtySixPlease,No Amp,No Amp,No Amp,26.1,Negative,40
+Supply Air Grille,12/10/20,16:40,NA,SWB,ThirtySixPlease,No Amp,No Amp,No Amp,25.2,Negative,40
+Window Sill,12/10/20,16:40,NA,SWB,ThirtySixPlease,No Amp,No Amp,No Amp,26.9,Negative,40
+Window Sill,12/10/20,16:40,2:41,PAS,ThirtySixPlease,29,No Amp,32.4,26.9,Positive (2/3),33.8
+AerosolSense,12/10/20,20:00,3:04,AS,ThirtySevenPlease,No Amp,No Amp,No Amp,28.9,Negative,40
+Charting Computer,12/10/20,20:00,NA,SWB,ThirtySevenPlease,No Amp,No Amp,No Amp,27.7,Negative,40
+Floor - Foot of Bed,12/10/20,20:00,NA,SWB,ThirtySevenPlease,No Amp,No Amp,No Amp,27,Negative,40
+Floor - hall,12/10/20,20:00,NA,SWB,ThirtySevenPlease,No Amp,No Amp,No Amp,28,Negative,40
+Floor - Left of Bed,12/10/20,20:00,NA,SWB,ThirtySevenPlease,No Amp,No Amp,No Amp,29.3,Negative,40
+Glove Box,12/10/20,20:00,3:04,PAS,ThirtySevenPlease,31.4,No Amp,No Amp,29.1,Negative,37.1
+Return Air Grille,12/10/20,20:00,NA,SWB,ThirtySevenPlease,25.9,No Amp,No Amp,28.2,Negative,35.3
+Supply Air Grille,12/10/20,20:00,NA,SWB,ThirtySevenPlease,No Amp,No Amp,No Amp,27.8,Negative,40
+Under bed ,12/10/20,20:00,3:04,PAS,ThirtySevenPlease,No Amp,No Amp,No Amp,27.5,Negative,40
+Under Sink,12/10/20,20:00,3:04,PAS,ThirtySevenPlease,No Amp,No Amp,No Amp,30.5,Negative,40
+Window Sill,12/10/20,20:00,NA,SWB,ThirtySevenPlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Window Sill,12/10/20,20:00,3:04,PAS,ThirtySevenPlease,No Amp,No Amp,No Amp,26.5,Negative,40
+AerosolSense,12/11/20,6:30,12:16,AS,ThirtyEightPlease,No Amp,No Amp,No Amp,27.2,Negative,40
+Charting Computer,12/11/20,12:16,NA,SWB,ThirtyEightPlease,No Amp,No Amp,No Amp,27,Negative,40
+Floor - Foot of Bed,12/11/20,12:16,NA,SWB,ThirtyEightPlease,No Amp,No Amp,No Amp,28,Negative,40
+Floor - hall,12/11/20,12:16,NA,SWB,ThirtyEightPlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Floor - Left of Bed,12/11/20,12:16,NA,SWB,ThirtyEightPlease,No Amp,No Amp,No Amp,28.2,Negative,40
+Floor - Right of Bed,12/11/20,12:16,NA,SWB,ThirtyEightPlease,No Amp,No Amp,No Amp,28.2,Negative,40
+Glove Box,12/11/20,6:30,12:16,PAS,ThirtyEightPlease,No Amp,No Amp,No Amp,28.6,Negative,40
+Hallway,12/11/20,6:30,12:16,PAS,ThirtyEightPlease,No Amp,No Amp,No Amp,27.5,Negative,40
+Return Air Grille,12/11/20,12:16,NA,SWB,ThirtyEightPlease,No Amp,No Amp,No Amp,28.3,Negative,40
+Supply Air Grille,12/11/20,12:16,NA,SWB,ThirtyEightPlease,No Amp,No Amp,No Amp,26.3,Negative,40
+Under bed ,12/11/20,6:30,12:16,PAS,ThirtyEightPlease,No Amp,No Amp,No Amp,26.9,Negative,40
+Under Sink,12/11/20,6:30,12:16,PAS,ThirtyEightPlease,No Amp,No Amp,No Amp,27.7,Negative,40
+Window Sill,12/11/20,12:16,NA,SWB,ThirtyEightPlease,No Amp,No Amp,No Amp,27,Negative,40
+Window Sill,12/11/20,6:30,12:16,PAS,ThirtyEightPlease,No Amp,No Amp,No Amp,27.5,Negative,40
+AerosolSense,12/16/20,15:50,18:50,AS,ThirtyNinePlease,22.3,29.3,27.9,24,Positive (3/3),26.5
+Charting Computer,12/16/20,15:50,NA,SWB,ThirtyNinePlease,31.1,No Amp,No Amp,25.7,Negative,37
+Floor - Foot of Bed,12/16/20,15:50,NA,SWB,ThirtyNinePlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Floor - hall,12/16/20,15:50,NA,SWB,ThirtyNinePlease,33.3,No Amp,No Amp,27.5,Negative,37.8
+Floor - Head of Bed,12/16/20,15:50,NA,SWB,ThirtyNinePlease,No Amp,No Amp,No Amp,28.9,Negative,40
+Floor - Left of Bed,12/16/20,15:50,NA,SWB,ThirtyNinePlease,No Amp,No Amp,No Amp,27.7,Negative,40
+Floor - Right of Bed,12/16/20,15:50,NA,SWB,ThirtyNinePlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Glove Box,12/16/20,15:50,18:50,PAS,ThirtyNinePlease,No Amp,No Amp,No Amp,28.9,Negative,40
+Mayo Stand,12/16/20,15:50,NA,SWB,ThirtyNinePlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Return Air Grille,12/16/20,15:50,NA,SWB,ThirtyNinePlease,29.7,26.6,25.6,24.9,Positive (3/3),27.3
+Supply Air Grille,12/16/20,15:50,NA,SWB,ThirtyNinePlease,No Amp,No Amp,No Amp,27.7,Negative,40
+Under bed ,12/16/20,15:50,18:50,PAS,ThirtyNinePlease,No Amp,No Amp,No Amp,28.9,Negative,40
+Under Sink,12/16/20,15:50,18:50,PAS,ThirtyNinePlease,33.1,No Amp,No Amp,30,Negative,37.7
+Window Sill,12/16/20,15:50,NA,SWB,ThirtyNinePlease,32.9,No Amp,No Amp,25.6,Negative,37.6
+Window Sill,12/16/20,15:50,18:50,PAS,ThirtyNinePlease,No Amp,No Amp,No Amp,29.3,Negative,40
+AerosolSense,12/11/20,3:37,5:41,AS,FortyOnePlease,No Amp,No Amp,No Amp,25.7,Negative,40
+Charting Computer,12/11/20,5:41,NA,SWB,FortyOnePlease,No Amp,No Amp,No Amp,26.8,Negative,40
+Floor - Foot of Bed,12/11/20,5:41,NA,SWB,FortyOnePlease,No Amp,No Amp,No Amp,26.4,Negative,40
+Floor - hall,12/11/20,5:41,NA,SWB,FortyOnePlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Floor - Left of Bed,12/11/20,5:41,NA,SWB,FortyOnePlease,No Amp,No Amp,No Amp,27.2,Negative,40
+Floor - Right of Bed,12/11/20,5:41,NA,SWB,FortyOnePlease,No Amp,No Amp,No Amp,27.1,Negative,40
+Glove Box,12/11/20,3:35,5:43,PAS,FortyOnePlease,No Amp,No Amp,No Amp,28.6,Negative,40
+Mayo Stand,12/11/20,5:41,NA,SWB,FortyOnePlease,No Amp,No Amp,No Amp,26.9,Negative,40
+Nurse Station,12/11/20,3:35,5:43,PAS,FortyOnePlease,No Amp,No Amp,No Amp,27.5,Negative,40
+Phlebotomy Cart,12/11/20,3:35,5:43,PAS,FortyOnePlease,No Amp,No Amp,No Amp,28.2,Negative,40
+Return Air Grille,12/11/20,5:41,NA,SWB,FortyOnePlease,No Amp,No Amp,No Amp,27.4,Negative,40
+Supply Air Grille,12/11/20,5:41,NA,SWB,FortyOnePlease,No Amp,No Amp,No Amp,28.5,Negative,40
+Under bed ,12/11/20,3:35,5:43,PAS,FortyOnePlease,No Amp,No Amp,No Amp,27.1,Negative,40
+Under Sink,12/11/20,3:35,5:43,PAS,FortyOnePlease,No Amp,No Amp,No Amp,30.7,Negative,40
+Window Sill,12/11/20,5:41,NA,SWB,FortyOnePlease,No Amp,No Amp,No Amp,26.9,Negative,40
+AerosolSense,12/4/20,0:16,13:01,AS,FortyThreePlease,30.9,29.8,30.4,No Amp,Positive (3/3),30.4
+Bathroom Floor,12/4/20,0:05,NA,SWB,FortyThreePlease,No Amp,No Amp,No Amp,26.9,Negative,40
+Floor - hall,12/4/20,0:05,NA,SWB,FortyThreePlease,33.3,No Amp,No Amp,30.2,Negative,37.8
+Floor - Foot of Bed,12/4/20,0:05,NA,SWB,FortyThreePlease,31.1,No Amp,No Amp,27.7,Negative,37
+Floor - Left of Bed,12/4/20,0:05,NA,SWB,FortyThreePlease,No Amp,No Amp,No Amp,33.5,Negative,40
+Floor - Right of Bed,12/4/20,0:05,NA,SWB,FortyThreePlease,30,32.1,No Amp,29.4,Positive (2/3),34
+Mayo Stand,12/4/20,0:05,NA,SWB,FortyThreePlease,31.9,No Amp,No Amp,28.9,Negative,37.3
+Supply Air Grille,12/4/20,0:05,NA,SWB,FortyThreePlease,No Amp,No Amp,No Amp,28.1,Negative,40
